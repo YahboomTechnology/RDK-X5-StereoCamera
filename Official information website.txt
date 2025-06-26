@@ -1,0 +1,1 @@
+https://d-robotics.github.io/rdk_doc/en/Robot_development/boxs/function/mono2d_body_detection
